@@ -9,4 +9,4 @@ let year = "2067"
 let age = "15"
 let money = "5 billion dollar"
 // This is a single line comment
-console.log("wsp,"+ username +"as of"+ year +"you got"+ money )
+console.log("wsp, "+ username + " as of "+ year +" you got "+ money )
