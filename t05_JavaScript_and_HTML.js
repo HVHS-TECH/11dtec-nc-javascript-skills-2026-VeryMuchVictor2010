@@ -17,9 +17,9 @@ let bruh = cashsh + 3
 
 // This is a single line comment
 OUTPUT.innerHTML = ("<p> wsp, "+ username + " as of "+ year +" you are "+ age + " your so rich and famous I wanna be JUST like you when I grow up </p>" )
-OUTPUT.innerHTML += ("<p> You were born in " + birth </p>)
-console.log("in 10 years you will be " + newAge)
-console.log("you have " + money + "dollar")
+OUTPUT.innerHTML += ("<p> You were born in " + birth + "</p>")
+OUTPUT.innerHTML += ("<p> in 10 years you will be " + newAge + "</p>")
+OUTPUT.innerHTML += ("<p> you have " + money + "dollar </p>")
 console.log("half of your money is" + cashsh)
 console.log("+3 = " + bruh)
 console.log ( username +": Ladies ladies, stand back, one at a time!, I know I know, I'm so graet B)")
