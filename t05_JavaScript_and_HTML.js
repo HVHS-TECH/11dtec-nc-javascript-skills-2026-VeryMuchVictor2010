@@ -16,8 +16,8 @@ let cashsh = money / 2
 let bruh = cashsh + 3
 
 // This is a single line comment
-OUTPUT.innerHTML = ("wsp, "+ username + " as of "+ year +" you are "+ age + " your so rich and famous I wanna be JUST like you when I grow up" )
-OUTPUT.innerHTML += ("You were born in " + birth)
+OUTPUT.innerHTML = ("<p> wsp, "+ username + " as of "+ year +" you are "+ age + " your so rich and famous I wanna be JUST like you when I grow up </p>" )
+OUTPUT.innerHTML += ("<p> You were born in " + birth </p>)
 console.log("in 10 years you will be " + newAge)
 console.log("you have " + money + "dollar")
 console.log("half of your money is" + cashsh)
