@@ -18,7 +18,7 @@ function welcome(){
     OUTPUT.innerHTML += ("<h1> hello </h1> ")
 }
 function display(_name, _price){
-    OUTPUT.innerHTML
+    OUTPUT.innerHTML += (_name + _price)
 }
 
 // This is a single line comment
@@ -30,3 +30,5 @@ OUTPUT.innerHTML += ("<p>half of your money is" + cashsh + "</p>")
 OUTPUT.innerHTML += ("<p> +3 = " + bruh + "</p>")
 OUTPUT.innerHTML += ("<p>" + username +": Ladies ladies, stand back, one at a time!, I know I know, I'm so graet B) </p>")
 welcome()
+display("bananananananan", " 2 dollars")
+display("mystery meat")
