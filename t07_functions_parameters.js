@@ -18,7 +18,7 @@ function welcome(){
     OUTPUT.innerHTML += ("<h1> hello </h1> ")
 }
 function display(_name, _price){
-    
+    OUTPUT.innerHTML
 }
 
 // This is a single line comment
