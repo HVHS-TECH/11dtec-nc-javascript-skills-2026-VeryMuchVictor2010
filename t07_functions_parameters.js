@@ -14,7 +14,7 @@ let birth = year - age
 let newAge = age + 10;
 let cashsh = money / 2
 let bruh = cashsh + 3
-function welcome(){
+function welcome(_username, _age){
     OUTPUT.innerHTML += ("<h1> hello </h1> ")
 }
 
