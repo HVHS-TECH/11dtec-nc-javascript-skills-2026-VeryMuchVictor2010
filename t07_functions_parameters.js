@@ -14,8 +14,11 @@ let birth = year - age
 let newAge = age + 10;
 let cashsh = money / 2
 let bruh = cashsh + 3
-function welcome(_username, _age){
+function welcome(){
     OUTPUT.innerHTML += ("<h1> hello </h1> ")
+}
+function display(_name, _price){
+    
 }
 
 // This is a single line comment
