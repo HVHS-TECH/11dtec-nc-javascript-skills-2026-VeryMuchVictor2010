@@ -19,6 +19,7 @@ function welcome(){
 }
 
 // This is a single line comment
+welcome()
 OUTPUT.innerHTML = ("<p> wsp, "+ username + " as of "+ year +" you are "+ age + " your so rich and famous I wanna be JUST like you when I grow up </p>" )
 OUTPUT.innerHTML += ("<p> You were born in " + birth + "</p>")
 OUTPUT.innerHTML += ("<p> in 10 years you will be " + newAge + "</p>")
@@ -26,4 +27,3 @@ OUTPUT.innerHTML += ("<p> you have " + money + "dollar </p>")
 OUTPUT.innerHTML += ("<p>half of your money is" + cashsh + "</p>")
 OUTPUT.innerHTML += ("<p> +3 = " + bruh + "</p>")
 OUTPUT.innerHTML += ("<p>" + username +": Ladies ladies, stand back, one at a time!, I know I know, I'm so graet B) </p>")
-welcome()
